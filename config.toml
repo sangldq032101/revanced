@@ -1,4 +1,4 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-included-patches = "'Spoof client' 'Minimized playback' 'Hide ads' 'Video ads' 'Change start page' 'Remember video quality'"
+included-patches = "'Hide ads' 'Video ads' 'Spoof device dimensions' 'Spoof client' 'Remove background playback restrictions' 'Change start page' 'Change header' 'Custom branding' 'Spoof app version' 'Remember video quality'"
 exclusive-patches = true
